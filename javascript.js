@@ -8,7 +8,7 @@ return `# ${project}
 ## Description
         ${description}
 
-      ## Table of Contents
+## Table of Contents
         * [Installation](#installation)
         * [Usage](#usage)
         * [License](#license)
@@ -16,22 +16,22 @@ return `# ${project}
         * [Tests](#tests)
         * [Questions](#questions)
         
-      ## Installation
+## Installation
         ${installation}
 
-      ## Usage
+## Usage
         ${usage}
 
-      ## License
+## License
         This project is licensed under the ${license} license.
 
-      ## Contributing
+## Contributing
         ${contributers}
 
-      ## Tests
+## Tests
         ${testinstructions}
 
-      ## Questions
+## Questions
         If you have any questions, please direct them to Github User ${github}`
 } 
 
